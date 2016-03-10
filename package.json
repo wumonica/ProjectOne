@@ -1,0 +1,19 @@
+{
+  "name": "redquarry",
+  "version": "0.1.0",
+  "description": "html css and bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wumonica/ProjectOne.git"
+  },
+  "author": "monica wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wumonica/ProjectOne/issues"
+  },
+  "homepage": "https://github.com/wumonica/ProjectOne#readme"
+}
